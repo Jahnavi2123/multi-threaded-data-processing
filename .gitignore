@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+
+# Go binaries
+*.exe
+*.test
+*.out
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
